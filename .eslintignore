@@ -1,0 +1,7 @@
+*.css
+*.html
+*.svg
+build
+coverage
+node_modules
+yarn.lock
