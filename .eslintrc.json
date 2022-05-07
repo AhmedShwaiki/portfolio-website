@@ -26,7 +26,9 @@
     ],
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
+    "react/prop-types": "warn",
     // code favs <3
+    "sort-keys": ["warn", "asc"],
     "max-len": ["warn", { "code": 80 }],
     "no-unused-vars": [
       "error",
