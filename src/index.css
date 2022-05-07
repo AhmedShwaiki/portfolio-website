@@ -32,6 +32,8 @@ body {
   background-color: var(--default-bg-color);
   color: var(--default-text-color);
   font-family: 'Courier New', Courier, monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
   line-height: 1.5;
   margin: 0;
   overscroll-behavior: none; /* Prevent scroll chaining */
